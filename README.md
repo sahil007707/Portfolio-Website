@@ -1,4 +1,4 @@
-# My Data Analysis Portfolio Website Link - https://sahil00708.my.canva.site/
+# My Data Analysis Portfolio Website Link - https://sahil00708.my.canva.site/data-portfolio370
 # 📊 Data Analysis Portfolio by Sahil
 
 Welcome to my personal data analysis portfolio, where I showcase how I turn raw datasets into impactful insights, compelling visualizations, and real-world solutions.
@@ -22,7 +22,7 @@ This portfolio highlights a collection of projects demonstrating:
 
 ## 🌐 Live Website
 
-👉 [Visit the Live Portfolio](https://sahil00708.my.canva.site/)
+👉 [Visit the Live Portfolio](https://sahil00708.my.canva.site/data-portfolio370)
 
 ## 📁 Featured Projects
 
